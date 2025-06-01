@@ -1,0 +1,3 @@
+__pycache__
+.env
+faiss_index
